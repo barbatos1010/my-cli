@@ -31,9 +31,7 @@ module.exports = {
     },
     plugins:[
         new VueLoaderPlugin(), //.vue文件的加载器
-
         new CleanWebpackPlugin(),  
-
         new HtmlWebpackPlugin({
             template:'./index.html',
             title:'Vue'

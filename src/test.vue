@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="a">
         test
     </div>
 </template>
@@ -11,7 +11,7 @@ export default {
 </script>
 
 <style>
-div{
+.a{
   color: blueviolet;
 }
 </style>

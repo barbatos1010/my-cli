@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="a">
         init webpack sss
         <test></test>
     </div>
@@ -15,7 +15,7 @@ export default {
 </script>
 
 <style>
-div{
+.a{
     text-align: center;
     color: red;
 }
